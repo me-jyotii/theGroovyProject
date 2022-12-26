@@ -1,0 +1,28 @@
+//
+//class Variables {
+//	def name = "rashmi"
+//	println name
+//}
+
+//def name = "rashmi"
+//String name = "rashmi"
+name = "rashmi"
+println name
+
+println "Name is "+name
+println 'The Name is '+name
+
+
+println "Name is ${name}"  // or println "Name is $name"
+println 'Name is ${name}' //incorrect
+
+// variable names can use letters, numbers and _
+// case sensitive
+// dynamically typed
+
+//def (x,y,z) = [30,40,"rani"]
+def (String x,int y,double z) = [30,40,"rani"] // error
+def (String x,int y,double z) = [30,40,80]
+println x
+println y
+println z

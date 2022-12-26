@@ -1,0 +1,8 @@
+//
+//class Variables {
+//	def name = "rashmi"
+//	println name
+//}
+
+def name = "rashmi"
+println name

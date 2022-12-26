@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\ASUS\Desktop\groovy\.metadata\.plugins\org.eclipse.jdt.core
+3532816610.index
+1865797976.index
+1801630707.index
+2718171301.index
+897416615.index
+2328269416.index
+332383186.index
+2689294058.index
